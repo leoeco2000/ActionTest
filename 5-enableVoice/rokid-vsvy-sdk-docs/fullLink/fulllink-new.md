@@ -33,7 +33,7 @@
 #### Rokid全链路通用方案
 
 {% urlembed %}
-http://www.baidu.com
+https://leoeco2000.github.io/ActionTest/vai-sdk-docs/java-api/index.html
 {% endurlembed %}
 
 <!-- {% urlembed %} -->
@@ -44,8 +44,8 @@ http://www.baidu.com
 <!-- https://github.com/leoeco2000/ActionTest.git/vai-sdk-docs/cxx-api/index.html -->
 <!-- {% endurlembed %} -->
 
-{% include "../../../vai-sdk-docs/cxx-api/index.html" %}
-{% include "git+https://github.com/leoeco2000/ActionTest.git/vai-sdk-docs/cxx-api/index.html" %}
+<!-- {% include "../../../vai-sdk-docs/cxx-api/index.html" %} -->
+<!-- {% include "git+https://github.com/leoeco2000/ActionTest.git/vai-sdk-docs/cxx-api/index.html" %} -->
 
 Rokid 全链路系统集成是指选择 Rokid 全链路 SDK 下载后,通过修改Android 源码方式集成SDK,集成 SDK 成功后,可以获取Rokid 前端语音激活/降噪以及 Rokid 语音识别/语音合成服务的相关能力.
   - 前端语音能力
