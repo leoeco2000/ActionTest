@@ -5,7 +5,8 @@
     "vistors-github",
     "mermaid-gb3",
     "html5-video",
-    "github-issue-feedback"
+    "github-issue-feedback",
+    "url-embed"
   ],
   "pluginsConfig" : {
     "vistors-github": {
