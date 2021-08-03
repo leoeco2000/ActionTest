@@ -19,15 +19,16 @@ jobs:
       
     - name: configue gitbook
       run: |
-        # npm install -g gitbook-cli
-        # gitbook install
+        npm install -g gitbook-cli
+        gitbook install
         # npm install -g gitbook-summary
-        npm install
-        npm run build
+        # npm install
+        # npm run build
                 
     - name: generate _book folder
       run: |
         book sm
+        # gitbook init --book sm
         gitbook build
         cp SUMMARY.md _book
         echo "Removing unwanted files"
