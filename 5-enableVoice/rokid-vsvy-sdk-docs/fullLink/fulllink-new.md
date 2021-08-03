@@ -33,7 +33,7 @@
 #### Rokid全链路通用方案
 
 {% urlembed %}
-https://github.com/basilvetas/gitbook-plugin-url-embed
+http://www.baidu.com
 {% endurlembed %}
 
 <!-- {% urlembed %} -->
