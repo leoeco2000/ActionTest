@@ -44,6 +44,8 @@ https://github.com/leoeco2000/ActionTest/tree/main/vai-sdk-docs/cxx-api/index.ht
 https://github.com/leoeco2000/ActionTest/tree/main/vai-sdk-docs/java-api/index.html
 {% endurlembed %}
 
+{% include "git+https://github.com/leoeco2000/ActionTest/tree/main/vai-sdk-docs/java-api/index.html" %}
+
 Rokid 全链路系统集成是指选择 Rokid 全链路 SDK 下载后,通过修改Android 源码方式集成SDK,集成 SDK 成功后,可以获取Rokid 前端语音激活/降噪以及 Rokid 语音识别/语音合成服务的相关能力.
   - 前端语音能力
     - 将麦克风阵列中的语音数据转换成对应的前端语音激活/休眠等事件. Rokid 提供的前端语音能力可为合作伙伴提供语音自身音源降噪处理/回声消除/环境噪音降噪处理等
