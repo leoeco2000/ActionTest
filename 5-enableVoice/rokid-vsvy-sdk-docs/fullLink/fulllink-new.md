@@ -36,13 +36,13 @@
 https://github.com/basilvetas/gitbook-plugin-url-embed
 {% endurlembed %}
 
-{% urlembed %}
-https://github.com/leoeco2000/ActionTest/vai-sdk-docs/cxx-api/index.html
-{% endurlembed %}
+<!-- {% urlembed %} -->
+<!-- https://github.com/leoeco2000/ActionTest/vai-sdk-docs/cxx-api/index.html -->
+<!-- {% endurlembed %} -->
 
-{% urlembed %}
-https://github.com/leoeco2000/ActionTest/vai-sdk-docs/java-api/index.html
-{% endurlembed %}
+<!-- {% urlembed %} -->
+<!-- https://github.com/leoeco2000/ActionTest/vai-sdk-docs/java-api/index.html -->
+<!-- {% endurlembed %} -->
 
 {% include "git+https://github.com/leoeco2000/ActionTest/vai-sdk-docs/java-api/index.html" %}
 
